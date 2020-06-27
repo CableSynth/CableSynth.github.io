@@ -1,0 +1,24 @@
+html{
+    font-family: 'Montserrat', sans-serif;
+}
+
+header{
+    text-align: center;
+}
+
+body {
+    background-color: #55e7ff;
+    color: #201148;
+    text-align: center;
+    padding: 1vh;
+}
+
+.upper_container{
+    display: flexbox;
+}
+
+.container {
+    display: inline-block;
+    font-size: 20px;
+    padding: 1vmax;
+}
