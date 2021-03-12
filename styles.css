@@ -7,7 +7,7 @@ header{
 }
 
 body {
-    background-color: #55e7ff;
+    background-color: #a7cdd3;
     color: #201148;
     text-align: center;
     padding: 1vh;
@@ -23,6 +23,7 @@ body {
     padding: 1vmax;
 }
 
-/* a{
-
-} */
+a:link, a:visited {
+    text-decoration: none;
+    color: #201148;
+}
